@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pelis</string>
+    <string name="favorite">Favorite button</string>
+    <string name="thumbnail">Movie thumbnail</string>
 </resources>
